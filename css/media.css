@@ -1,0 +1,32 @@
+/* Responsive for Mobile Devices */
+
+@media only screen and (max-width:767px) {
+    .height h1 {
+        font-size: 28px;
+        padding: 30px 0;
+    }
+    .banner_phone {
+        display: none;
+    }
+    .header-button{
+        text-align: center;
+    }
+    .btn{
+        margin: 0;
+    }
+    .btn-download{
+        margin: 0;
+    }
+    .little_heading {
+        text-align: center;
+    }
+    .little_heading_button {
+        margin-top: 30px;
+    }
+    .little_heading_button .btn {
+        margin-top: 10px;
+    }
+    .contact_form {
+        width: 100%;
+    }
+}
